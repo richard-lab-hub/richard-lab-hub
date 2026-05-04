@@ -1,4 +1,4 @@
-# Rockwell Torres
+# Richard TM
 ### ML Engineer · CS Educator · Researcher
 
 > *Building intelligent systems where **Machine Learning** meets software engineer and **HCI** for real-world impact*
